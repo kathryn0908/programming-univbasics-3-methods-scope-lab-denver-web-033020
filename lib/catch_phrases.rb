@@ -17,9 +17,9 @@ def link
 end
 
 def all-phrases
-  link
+  mario 
   toadstool
-  mario
+  link
 end 
 
 all-phrases
