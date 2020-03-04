@@ -16,10 +16,10 @@ def link
   phrase
 end
 
-def all-phrases(character)
+def all_phrases(character)
   mario 
   toadstool
   link
 end 
 
-all-phrases()
+all_phrases()
