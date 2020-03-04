@@ -16,7 +16,7 @@ def link
   phrase
 end
 
-def all_phrases(character)
+def all_phrases(phrase)
   mario 
   toadstool
   link
