@@ -10,17 +10,3 @@ def toadstool
   phrase
 end
 
-def link 
-  phrase="It's Dangerous To Go Alone! Take This."
-  puts phrase
-  phrase
-end
-
-def all-phrases(phrase)
-  puts link 
-  link
-  puts toadstool
-  toadstool
-  puts mario
-  mario
-end 
