@@ -22,4 +22,4 @@ def all-phrases(character)
   link
 end 
 
-all-phrases("mario")
+all-phrases()
