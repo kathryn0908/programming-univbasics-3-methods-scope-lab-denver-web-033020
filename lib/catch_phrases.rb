@@ -21,3 +21,5 @@ def all-phrases(phrase)
   toadstool
   mario
 end 
+
+all-phrases(phrase)
