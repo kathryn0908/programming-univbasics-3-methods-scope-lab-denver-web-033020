@@ -22,4 +22,4 @@ def all-phrases(phrase)
   mario
 end 
 
-all-phrases(phrase)
+all-phrases
