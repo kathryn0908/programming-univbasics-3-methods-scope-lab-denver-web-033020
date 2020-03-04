@@ -10,4 +10,5 @@ def toadstool
   phrase
 end
 
-def 
+def link 
+  phrase=
