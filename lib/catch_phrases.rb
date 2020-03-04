@@ -15,3 +15,5 @@ def link
   puts phrase
   phrase
 end
+
+def all-phrases
