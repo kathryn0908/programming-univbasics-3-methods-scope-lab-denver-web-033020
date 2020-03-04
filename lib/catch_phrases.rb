@@ -16,4 +16,11 @@ def link
   phrase
 end
 
-def all-phrases
+def all-phrases(phrase)
+  puts link 
+  link
+  puts toadstool
+  toadstool
+  puts Mario
+  mario
+end 
