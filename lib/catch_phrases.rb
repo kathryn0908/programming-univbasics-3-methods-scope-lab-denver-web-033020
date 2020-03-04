@@ -21,6 +21,6 @@ def all-phrases(phrase)
   link
   puts toadstool
   toadstool
-  puts Mario
+  puts mario
   mario
 end 
